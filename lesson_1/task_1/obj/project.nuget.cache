@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LVCR2aVhHpDVZ8ej5oGnxiqfeaiHb8iaFcUK9s/dXGJQsIq9xFoml04CPHPILBsojW+NVHHTn/PAJ5fwyDNQ0A==",
+  "dgSpecHash": "wftQeghrS7+IXSqH7wQAheS/pj5J0pxBE3aT3bXDYSQWWYva0n5f3eWqwsf3De4zv3iITZDgnsVmeAW4WWF4pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selin\\Desktop\\Study\\C#\\lesson_1\\task_1\\task_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\selin\\Desktop\\Study\\C#Lessons\\lesson_1\\task_1\\task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

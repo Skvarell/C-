@@ -12,3 +12,4 @@ C:\Users\selin\Desktop\Study\C#\lesson_1\task_1\obj\Debug\net7.0\refint\task_1.d
 C:\Users\selin\Desktop\Study\C#\lesson_1\task_1\obj\Debug\net7.0\task_1.pdb
 C:\Users\selin\Desktop\Study\C#\lesson_1\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
 C:\Users\selin\Desktop\Study\C#\lesson_1\task_1\obj\Debug\net7.0\ref\task_1.dll
+C:\Users\selin\Desktop\Study\C#\lesson_1\task_1\obj\Debug\net7.0\task_1.sourcelink.json
