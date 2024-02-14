@@ -1,4 +1,4 @@
-﻿double CalcilateFormula(int a, int b, int c, int d)
+﻿﻿double CalcilateFormula(int a, int b, int c, int d)
 {
     double numinator = a * b;
     int denominator = c + d;
